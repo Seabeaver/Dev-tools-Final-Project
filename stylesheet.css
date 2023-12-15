@@ -1,0 +1,16 @@
+.pageTitle{
+    color: rgb(120, 120, 120);
+    font-size: 40px;
+}
+.subjectTitle{
+    color: lightcoral;
+}
+
+.item img{
+    width: 1150px;
+    height: 400px;
+}
+.CarouselResize{
+    height: 400px;
+    overflow: hidden;
+}
