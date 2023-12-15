@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(220, 220, 220);
+}
+.pageTitle{
+    color: rgb(120, 120, 120);
+    font-size: 40px;
+}
+.subjectTitle{
+    color: lightcoral;
+}
+.images{
+    width: 33%;
+}
+.images div{
+    border: dashed thick red;
+    margin-bottom: 10px;
+    
+}
+.CatCardImages img{
+    max-width: 100%;
+    height: auto;
+}
+body .cardMain {
+    width: 40%;
+    border: solid black;
+    border-width: 3px;
+    padding: 0px;
+}
+body .card-header{
+    width: auto;
+}
+body > .container{
+    margin-top: 50px;
+    margin-bottom: 200px;
+}
+body .container .contentMain{
+    margin-bottom: 50px;
+}
+.cardContent{
+    text-align: center;
+}
+.card-body > p{
+    padding: 0px;
+}
+.card-body > div{
+    padding: 0px;
+}
+.card > img{
+    width: 60px;
+}
+.card-header{
+    border-bottom: solid black;
+    border-width: 3px;
+    font-size: 24px;
+}
+.card-text{
+    font-size: 16px;
+}
+
+
