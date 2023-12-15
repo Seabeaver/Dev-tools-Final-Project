@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(220, 220, 220);
+}
+.pageTitle{
+    color: rgb(120, 120, 120);
+    font-size: 40px;
+}
+.subjectTitle{
+    color: lightcoral;
+}
+.images{
+    width: 33%;
+}
+.images div{
+    border: dashed thick red;
+    margin-bottom: 10px;
+    
+}
+.CatCardImages img{
+    max-width: 100%;
+    height: auto;
+}
