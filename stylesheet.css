@@ -33,3 +33,16 @@ body .container .contentMain{
     width: 400px;
     height: 200px;
 }
+/*Nor Down*/
+.images{
+    width: 33%;
+}
+.images div{
+    border: dashed thick red;
+    margin-bottom: 10px;
+    
+}
+.CatCardImages img{
+    max-width: 100%;
+    height: auto;
+}
