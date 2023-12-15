@@ -7,8 +7,7 @@
 }
 
 .item img{
-    width: 1150px;
-    height: 400px;
+    min-width: 100%;
 }
 .CarouselResize{
     height: 400px;
