@@ -14,3 +14,17 @@
     height: 400px;
     overflow: hidden;
 }
+body > .container{
+    margin-top: 50px;
+    margin-bottom: 200px;
+}
+body .container .contentMain{
+    margin-bottom: 50px;
+}
+.cardContent{
+    text-align: center;
+}
+#accordGroup img {
+    width: 400px;
+    height: 200px;
+}
